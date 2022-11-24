@@ -1,5 +1,5 @@
 {
-    "name": "conscia-tjk",
+    "name": "conscia-tjk/link-to-tel",
     "description": "Redirects a link to a tel:",
     "type": "project",
     "require": {
