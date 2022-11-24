@@ -1,8 +1,8 @@
 spec:
-  name: sample-php
+  name: link-to-tel
   services:
   - environment_slug: php
     git:
       branch: main
-      repo_clone_url: https://github.com/digitalocean/sample-php.git
-    name: sample-php
+      repo_clone_url: https://github.com/conscia-tjk/link-to-tel.git
+    name: link-to-tel
