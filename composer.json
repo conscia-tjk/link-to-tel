@@ -1,7 +1,7 @@
 {
     "name": "conscia-tjk",
     "description": "Redirects a link to a tel:",
-    "type": "production",
+    "type": "project",
     "require": {
         "alrik11es/cowsayphp": "^1.2"
     },
