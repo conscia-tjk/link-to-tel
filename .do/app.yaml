@@ -1,8 +1,8 @@
-name: sample-php
+name: link-to-tel
 services:
 - environment_slug: php
   github:
     branch: main
     deploy_on_push: true
-    repo: digitalocean/sample-php
-  name: sample-php
+    repo: conscia-tjk/link-to-tel
+  name: link-to-tel
